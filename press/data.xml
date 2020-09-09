@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- example file containing base tags -->
+
+<game>	
+	<title>Dangers Afloat</title>
+	<founding-date></founding-date>
+	<website>https://really-long-birds.github.io/</website>
+	<based-in>Americana, Brazil</based-in>
+	
+	<press-contact>reallylongbirds@gmail.com</press-contact>
+	<phone>+55 (19) 99410-8728</phone>
+	<address>
+	</address>
+
+	<socials>
+		<social>
+			<name>Twitter</name>
+			<link>twitter.com/DangersAfloat</link>
+		</social>
+		<social>
+			<name>Facebook</name>
+			<link>facebook.com/DangersAfloat</link>
+		</social>
+		<social>
+			<name>Discord</name>
+			<link>discord.gg/BUKVSaY</link>
+		</social>
+	</socials>
+
+	<description>	
+		Dangers Afloat is a digital board game about distrust and betrayal on the high seas.
+Play with your friends as a crew of rowdy pirates, and work together to guide the boat through stormy seas and get your hands on the Legendary Pirate Treasure!
+But be careful! For there is a traitor in the crew.
+So if you want to reach the treasure, communication is your most reliable weapon.
+	</description>
+		
+	<histories>
+		<history>
+			<header>Early history</header>
+			<text>The "original game" was made for the Tiltspot Game Jam wich we won!</text>
+		</history>
+		<history>
+			<header>After that</header>
+			<text>We started working in our first commercial project</text>
+		</history>
+	</histories>
+		
+	<trailers>
+		<trailer>
+			<name>OLD Dangers Afloat "Alpha Trailer"</name>
+			<youtube>0gtQveETTAM</youtube>
+		</trailer>
+		<trailer>
+			<name>Dangers Afloat Public Playtest 01 Clip (Only in Portuguese)</name>
+			<youtube>d0mPdWI1774</youtube>
+		</trailer>
+		<trailer>
+			<name>Dangers Afloat OST - Pirates for Hire</name>
+			<youtube>r7q4XGAu8J4</youtube>
+		</trailer>
+	</trailers>
+	
+	<awards>
+		<award>
+			<description>1st Place at Tiltspot GameJam.</description>
+			<info>Social Game Jam , May 1st, 2019</info>
+		</award>
+	</awards>
+	
+	<quotes>
+		<quote>
+			<description>I never thought I was going to have so much fun in a mobile board game. Dangers Afloat managed to make every second in-game profitable.</description>
+			<name>Ahab Lee</name>
+			<website>Website</website>
+			<link>https://medium.com/@ahablee</link>
+		</quote>
+	</quotes>
+	
+	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
+	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
+																			 	ask (permission on case-per-case basis),
+																			 	non-commercial (no monetization allowed),
+																			 	monetize (full permission) -->	
+	<additionals>
+		<additional>
+			<title>ReallyLongBirds</title>
+			<description>Our other jam games/prototypes</description>
+			<link>really-long-birds.github.io/</link>
+		</additional>
+	</additionals>
+	
+	<credits>
+		<credit>
+			<person>Marcelo Nuñez</person>
+			<role>Programmer</role>
+		</credit>
+		<credit>
+			<person>Maria Carolina Damiani Paiser</person>
+			<role>Artist and Marketing</role>
+		</credit>
+		<credit>
+			<person>Eraldo Urculino</person>
+			<role>Musician and Programmer</role>
+		</credit>
+		<credit>
+			<person>Vinicius Carli Bustamanti</person>
+			<role>Generalist(Art,Code and other)</role>
+		</credit>
+	</credits>
+	
+	<contacts>
+		<contact>
+			<name>Inquiries</name>
+			<mail>reallylongbirds@gmail.com</mail>
+		</contact>
+		<contact>
+			<name>Twitter</name>
+			<link>http://twitter.com/ReallyLongBirds</link>
+		</contact>
+		<contact>
+			<name>Facebook</name>
+			<link>http://facebook.com/ReallyLongBirds</link>
+		</contact>
+		<contact>
+			<name>Web</name>
+			<link>https://really-long-birds.github.io/</link>
+		</contact>
+	</contacts>
+</game>
